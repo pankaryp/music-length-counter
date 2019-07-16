@@ -1,5 +1,5 @@
 {
-  "name": "music-length-counter",
+  "name": "track-length-counter",
   "version": "1.0.0",
   "description": "A library for counting the number, the total length and the file format of music tracks, inside a folder",
   "main": "script.js",
